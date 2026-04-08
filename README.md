@@ -95,7 +95,6 @@ I'm available for freelance projects on:
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/P2qdq00)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01308cabaa0f3e39e4?mp_source=share)
-[![Freelancer](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01308cabaa0f3e39e4?mp_source=share)
 
 ---
 
