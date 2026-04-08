@@ -53,13 +53,13 @@ Currently open for freelance projects: landing pages, web apps, UI/UX design.
       <h3>🏄 Surfing School</h3>
       <p>Landing page for a Portugal-based surfing school. Fully responsive, built for real use.</p>
       <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://timfrontenddev.github.io/surfing-school/">Live Demo →</a>
+      <a href="https://timbuildsweb.github.io/surfing-school/">Live Demo →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎂 Cake Bakery</h3>
       <p>E-commerce landing page with engaging scroll animations and full mobile responsiveness.</p>
       <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://timfrontenddev.github.io/cake-bakery/">Live Demo →</a>
+      <a href="https://timbuildsweb.github.io/cake-bakery/">Live Demo →</a>
     </td>
   </tr>
   <tr>
@@ -67,13 +67,13 @@ Currently open for freelance projects: landing pages, web apps, UI/UX design.
       <h3>🏍 BMW Bike Landing</h3>
       <p>High-impact product landing page with scroll reveal, video background, and sliders.</p>
       <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://timfrontenddev.github.io/bmw-bike-landing/">Live Demo →</a>
+      <a href="https://timbuildsweb.github.io/bmw-bike-landing/">Live Demo →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏗 Fiver Construct</h3>
       <p>Real client project. Minimalist construction company landing page, custom-built to spec.</p>
       <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://timfrontenddev.github.io/fiver-construct/">Live Demo →</a>
+      <a href="https://timbuildsweb.github.io/fiver-construct/">Live Demo →</a>
     </td>
   </tr>
 </table>
@@ -93,8 +93,9 @@ Currently open for freelance projects: landing pages, web apps, UI/UX design.
 
 I'm available for freelance projects on:
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/P2qdq00)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01308cabaa0f3e39e4?mp_source=share)
+[![Freelancer](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01308cabaa0f3e39e4?mp_source=share)
 
 ---
 
